@@ -1,0 +1,1 @@
+Deoarece una din componentele release-ului a depasit 100mb nu am putut incarca release-ul pe github. Insa, proiectul fiind open-source, poate fi oricand compilat in editorul Unity.
