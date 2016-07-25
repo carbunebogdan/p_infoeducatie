@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\disableFog.js">
+    <Files>
+      <File FileName="Assets\Scripts\disableFog.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WalkGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HelpTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFog.js" Line="1" Column="1" />
+      <File FileName="Assets\oldGenerator\Assets\Scripts\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sceneTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Add-Ons\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\mouseFix.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
